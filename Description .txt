@@ -1,0 +1,47 @@
+------------------------------------------------
+|              Gout-Friendly Exercise Tracker  |
+|               4-Week Plan: Monday–Friday     |
+------------------------------------------------
+
+Week 1 - Monday   [Red border]
+Focus: Mobility + Light Cardio
+- 5-min warm-up walk
+- 10 min mobility drills
+- 15 min walk or light cycling + stretching
+
+Week 1 - Tuesday  [Orange border]
+Focus: Full Body Strength (Bodyweight)
+- 10 chair squats
+- 10 wall push-ups
+- 10 seated knee raises
+- 10 step-ups
+- 30s plank
+- 2–5 min cooldown walk
+
+... (continues for Wed, Thu, Fri and Weeks 2, 3, 4)
+
+------------------------------------------------
+
+[ Pie Chart ]
+  - Red slice: Monday workouts total
+  - Orange slice: Tuesday workouts total
+  - Yellow slice: Wednesday workouts total
+  - Green slice: Thursday workouts total
+  - Blue slice: Friday workouts total
+
+------------------------------------------------
+
+[Install Button in browser UI]
+
+---
+
+### Interaction
+
+- Scroll vertically through all weeks and days  
+- See exercise details per day  
+- Watch pie chart dynamically reflect totals  
+- Install app for offline access
+
+---
+
+If you want, I can create a **real visual mockup image** or even a clickable prototype next — just say the word!

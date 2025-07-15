@@ -1,0 +1,47 @@
+# About Me
+
+Hello! I’m Jonathan Jefferies, a fitness enthusiast and health-conscious individual dedicated to managing my well-being through thoughtful, consistent exercise. Managing gout has been a significant part of my fitness journey, and I’ve developed routines that allow me to stay active while minimizing flare-ups and joint discomfort.
+
+## My Fitness Philosophy
+
+I believe in the power of movement and consistency. My approach combines:
+
+- **Low-impact exercises** that protect my joints and reduce inflammation.
+- A balanced routine focusing on **mobility, strength, cardiovascular health, and balance**.
+- Exercising **five days a week** with dedicated rest days to allow proper recovery.
+- Tracking progress carefully through data and visuals, which helps me stay motivated and adjust my plan as needed.
+
+## My Custom Gout Exercise Tracker
+
+To support my journey, I built a personalized exercise tracker web app that offers:
+
+- A **4-week gout-friendly workout plan** with daily routines for Monday through Friday.
+- **Color-coded days** for easy navigation and quick reference.
+- Interactive **pie charts to visualize exercise distribution** and monitor progress over time.
+- A **Progressive Web App (PWA)** setup that allows me to install the tracker on my mobile device or desktop and use it offline — perfect for workouts anywhere, anytime.
+
+## Technology Stack
+
+I enjoy building tools that empower health and fitness through technology, including:
+
+- **HTML, CSS, and JavaScript** for creating a responsive and user-friendly interface.
+- **Chart.js** for dynamic and attractive data visualization.
+- **Service Workers** to enable offline functionality.
+- Implementing **PWA features** for an app-like experience without the need to visit app stores.
+
+---
+
+## Contact Me
+
+I’m always open to connecting with like-minded people who are passionate about health, fitness, or coding:
+
+- **Email:** jonathanjefferies1985@gmail.com  
+- **Twitter:** [@JonathanJFit](https://twitter.com/JonathanJFit)  
+- **LinkedIn:** [linkedin.com/in/jonathanjefferies](https://linkedin.com/in/jonathanjefferies)  
+- **GitHub:** [github.com/jonathanjefferies](https://github.com/jonathanjefferies)  
+
+Feel free to reach out if you want to chat about fitness, share ideas, or collaborate on projects. I’m happy to help others create tools or plans for healthier, happier lives!
+
+---
+
+Thank you for visiting my profile. Let’s keep moving forward — one step, one rep, and one day at a time!

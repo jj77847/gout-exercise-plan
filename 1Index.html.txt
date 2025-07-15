@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gout-Friendly Exercise Plan</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 20px;
+      background: #f8f9fa;
+      color: #333;
+    }
+    h1, h2 {
+      text-align: center;
+      color: #006064;
+    }
+    .day {
+      background: #ffffff;
+      border-radius: 10px;
+      padding: 15px 20px;
+      margin-bottom: 20px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    }
+    .title {
+      font-size: 1.2em;
+      font-weight: bold;
+      color: #00796B;
+      margin-bottom: 5px;
+    }
+    .section {
+      margin-bottom: 10px;
+    }
+    .label {
+      font-weight: bold;
+      color: #444;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>5-Day Gout-Friendly Weekly Exercise Plan</h1>
+  <h2>Monday–Friday • Weekends Off</h2>
+
+  <div class="day">
+    <div class="title">Monday – Mobility + Light Cardio</div>
+    <div class="section"><span class="label">Focus:</span> Ease into the week, joint mobility and heart health</div>
+    <div class="section"><span class="label">Routine:</span>
+      <ul>
+        <li>5-min warm-up walk</li>
+        <li>10 min mobility drills</li>
+        <li>15 min walk or light cycling + stretching</li>
+      </ul>
+    </div>
+    <div class="section"><span class="label">Tip:</span> Keep posture upright and avoid walking if your foot or toe joint feels irritated.</div>
+  </div>
+
+  <div class="day">
+    <div class="title">Tuesday – Full Body Strength (Bodyweight)</div>
+    <div class="section"><span class="label">Focus:</span> Build joint-supporting muscle safely</div>
+    <div class="section"><span class="label">Routine:</span>
+      <ul>
+        <li>2–3 rounds of:</li>
+        <li>10 chair squats</li>
+        <li>10 wall push-ups</li>
+        <li>10 seated knee raises</li>
+        <li>10 step-ups</li>
+        <li>30s plank or wall hold</li>
+        <li>2–5 min cooldown walk</li>
+      </ul>
+    </div>
+    <div class="section"><span class="label">Tip:</span> No jumping or floor exercises; keep all moves controlled.</div>
+  </div>
+
+  <div class="day">
+    <div class="title">Wednesday – Cardio + Stretch</div>
+    <div class="section"><span class="label">Focus:</span> Increase circulation, lower uric acid</div>
+    <div class="section"><span class="label">Routine:</span>
+      <ul>
+        <li>20–30 min brisk walk or bike</li>
+        <li>5–10 min full-body stretching (calves, thighs, hips, shoulders)</li>
+      </ul>
+    </div>
+    <div class="section"><span class="label">Tip:</span> Try swimming if accessible — excellent joint-friendly cardio.</div>
+  </div>
+
+  <div class="day">
+    <div class="title">Thursday – Strength + Balance</div>
+    <div class="section"><span class="label">Focus:</span> Maintain joint integrity and reduce fall risk</div>
+    <div class="section"><span class="label">Routine:</span>
+      <ul>
+        <li>10 bodyweight squats</li>
+        <li>10 seated leg lifts</li>
+        <li>10 resistance band rows</li>
+        <li>30s single-leg stand (2–3x)</li>
+        <li>10 wall push-ups</li>
+        <li>5 min cooldown stretch</li>
+      </ul>
+    </div>
+    <div class="section"><span class="label">Tip:</span> Use a chair for balance if needed during single-leg work.</div>
+  </div>
+
+  <div class="day">
+    <div class="title">Friday – Recovery Flow / Gentle Yoga + Walk</div>
+    <div class="section"><span class="label">Focus:</span> Recover, relax, and stay limber</div>
+    <div class="section"><span class="label">Routine:</span>
+      <ul>
+        <li>15 min gentle yoga (cat-cow, folds, side stretches)</li>
+        <li>10–15 min easy walk</li>
+      </ul>
+    </div>
+    <div class="section"><span class="label">Tip:</span> Don’t overdo it — this is an active recovery day.</div>
+  </div>
+
+</body>
+</html>
